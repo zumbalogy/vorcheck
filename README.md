@@ -9,21 +9,21 @@ better understand a potential candidate's skill levels.
 ## How to Use
 
   1. Fork this repo into your own github account
-  1. Work on it for about an hour, a little more or less is fine
+  1. Work on it for about an hour (a little more-or-less is fine
   as we aren't tracking time, we just don't feel it's necessary
-  to work on it any longer than an hour.
+  to work on it any longer than an hour)
   1. When you are finished, provide us with a copy of your
-  work somehow. This could be a pull-request, or just a pointer
-  to your repo.
+  work (this could be a pull-request, or just a pointer
+  to your repo)
   
 ## Excercises
 
 There are empty directories in this repo, and work should be done
-entirely within them.
+entirely within them. This is just to keep everything in one place.
 
 ### Rails
 
-**Language: Rails**
+**Language: Rails (i.e., Ruby)**
 
 In the `url-shortener` directory, build a URL shortener with Rails.
 
@@ -31,7 +31,7 @@ In the `url-shortener` directory, build a URL shortener with Rails.
 
 **Language: Any language that supports object-oriented design**
 
-In the `object-oriented` directory, implement one of the following...
+In the `object-oriented` directory, implement **one** of the following...
 
   - A `PhoneNumber` class, that provides a reasonable API around the concept of
     a phone number
