@@ -1,10 +1,10 @@
 # VorCheck
 
-This repo is the basis for our engineering quiz. This is part
-of our standard interview process. Note that we don't using
-coding excercises as a discrete `pass` or `fail** tool. We use
-these excercises as a starting point of discussion around
-coding, to help us determine a potential candidate's skill levels.
+This repo is the basis for our engineering quiz, which is part of our standard
+interview process. It's important to understand that we don't use programming
+excercises as a discrete _pass_ or _fail_ tool. We use these excercises as a
+starting point for coding-focused conversations. These conversations help us
+better understand a potential candidate's skill levels.
 
 ## How to Use
 
