@@ -46,5 +46,6 @@ a regular string (varchar) in order to persist to a database.
 **Language: Any language**
 
 In the `longest-substring` directory, implement an algorithm that when
-given a string, returns the longest substring found in the input.
+given a string, returns the longest repeating substring found in the input.
+E.g., in the string "phenomenal", the longest repeating substring is "en".
 
