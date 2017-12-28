@@ -21,3 +21,5 @@ better understand a potential candidate's skill levels.
 There are empty directories in this repo, and work should be done
 entirely within them. This is just to keep everything in one place.
 
+Each of the sub-directories here contains a single excercise. See the README in
+each of those sub-directories for further instructions.
