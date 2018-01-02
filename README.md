@@ -21,31 +21,5 @@ better understand a potential candidate's skill levels.
 There are empty directories in this repo, and work should be done
 entirely within them. This is just to keep everything in one place.
 
-### Rails
-
-**Language: Rails (i.e., Ruby)**
-
-In the `url-shortener` directory, build a URL shortener with Rails.
-
-### Object Oriented Programming
-
-**Language: Any language that supports object-oriented design**
-
-In the `object-oriented` directory, implement **one** of the following...
-
-  - A `PhoneNumber` class, that provides a reasonable API around the concept of
-    a phone number
-  - A `Grade` class that implements a reasonable API for grades that look like
-    the letter grading system (i.e., A+, A, A-, B+, B, ...)
-
-One requirement of these classes is they serialize and deserialize to
-a regular string (varchar) in order to persist to a database.
-
-### Algorithm
-
-**Language: Any language**
-
-In the `longest-substring` directory, implement an algorithm that when
-given a string, returns the longest repeating substring found in the input.
-E.g., in the string "phenomenal", the longest repeating substring is "en".
-
+Each of the sub-directories here contains a single excercise. See the README in
+each of those sub-directories for further instructions.
