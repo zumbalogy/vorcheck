@@ -8,13 +8,12 @@ better understand a potential candidate's skill levels.
 
 ## How to Use
 
-  1. Fork this repo into your own github account
+  1. Checkout this repo (you can fork it if you prefer)
   1. Work on it for about an hour (a little more-or-less is fine
   as we aren't tracking time, we just don't feel it's necessary
   to work on it any longer than an hour)
   1. When you are finished, provide us with a copy of your
-  work (this could be a pull-request, or just a pointer
-  to your repo)
+  work (this could be a patch-file, a zip file or a pull-request)
   
 ## Excercises
 
