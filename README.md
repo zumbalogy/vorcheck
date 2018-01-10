@@ -13,7 +13,7 @@ better understand a potential candidate's skill levels.
   as we aren't tracking time, we just don't feel it's necessary
   to work on it any longer than an hour)
   1. When you are finished, provide us with a copy of your
-  work (this could be a patch-file, a zip file or a pull-request)
+  work at least **2 hours** prior to your scheduled interview. The code can be a patch-file, a zip file or a pull-request.
   
 ## Excercises
 
