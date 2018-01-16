@@ -15,3 +15,9 @@ below.
   - Identify any deficencies with the logic and provide reasonable
     solutions
 
+### Run the specs
+```bash
+$ bundle install
+
+$ bin/rspec --format doc
+```
