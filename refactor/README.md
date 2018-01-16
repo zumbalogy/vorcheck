@@ -6,7 +6,7 @@ below.
 ### Refactor
 
   - Refactor `OrderSummary` and `Product` so that they adhear to
-    commonally accepted Ruby coding standards and best practices.
+    commonaly accepted Ruby coding standards and best practices.
 
 ### Improve
 
